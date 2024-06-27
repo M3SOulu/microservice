@@ -15,12 +15,12 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>microservice-demo-eureka-server</module>
-		<module>microservice-demo-turbine-server</module>
-		<module>microservice-demo-customer</module>
-		<module>microservice-demo-catalog</module>
-		<module>microservice-demo-order</module>
-		<module>microservice-demo-zuul-server</module>
+		<module>microservice-demo/microservice-demo-eureka-server</module>
+		<module>microservice-demo/microservice-demo-turbine-server</module>
+		<module>microservice-demo/microservice-demo-customer</module>
+		<module>microservice-demo/microservice-demo-catalog</module>
+		<module>microservice-demo/microservice-demo-order</module>
+		<module>microservice-demo/microservice-demo-zuul-server</module>
 	</modules>
 
 	<properties>
